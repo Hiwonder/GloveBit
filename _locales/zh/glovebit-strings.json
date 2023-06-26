@@ -1,0 +1,18 @@
+{
+    "glovebit.knob_id.Knob_1|block":"拇指",
+    "glovebit.knob_id.Knob_2|block":"食指",
+    "glovebit.knob_id.Knob_3|block":"中指",
+    "glovebit.knob_id.Knob_4|block":"无名指",
+    "glovebit.knob_id.Knob_5|block":"小指",
+    "glovebit.led_id.led_1|block":"LED 1",
+    "glovebit.led_id.led_2|block":"LED 2",
+    "glovebit.led_id.led_3|block":"LED 3",
+    "glovebit.led_id.led_4|block":"LED 4",
+    "glovebit.led_id.led_5|block":"LED 5",
+    "glovebit.led_id.led_all|block":"全部LED",
+    "glovebit.led_status.turn_on|block":"打开",
+    "glovebit.led_status.turn_off|block":"关闭",
+    "glovebit.get_knob_value|block": "获取 %finger 旋钮值(0~255)",
+    "glovebit.get_battery_value|block": "获取电池电量(mV)",
+    "glovebit.control_led|block": "%status %led"
+}

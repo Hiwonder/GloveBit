@@ -1,0 +1,19 @@
+{
+    "name": "glovebit",
+    "version": "0.0.1",
+    "description": "Blocks for Hiwonder glovebit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/glovebit-strings.json",
+        "_locales/zh/glovebit-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}

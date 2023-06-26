@@ -1,0 +1,5 @@
+{
+    "glovebit.get_knob_value|block": "获取Glovebit每根手指对应的旋钮值",
+    "glovebit.get_battery_value|block": "获取Glovebit的电池电量(mV)",
+    "glovebit.control_led|block": "Glovebit控制每个LED"
+}
