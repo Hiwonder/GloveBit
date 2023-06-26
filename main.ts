@@ -1,7 +1,7 @@
 /*
  glovebit package
 */
-//% weight=10 icon="\uf7b5" color=#f99000
+//% weight=10 icon="\uf259" color=#f99000
 namespace glovebit {
 
     const I2C_ADDR = 0x35
